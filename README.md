@@ -1,2 +1,2 @@
 # figures
-Figures and tables for publication. Made for sharing purposes.
+Figures and tables for publications. Made for sharing purposes.
